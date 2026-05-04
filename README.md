@@ -42,10 +42,10 @@ This notebook implements a **multi-class sentiment classification system** for A
 | Section | Cells | Description |
 | --- | --- | --- |
 | **Data Preprocessing & EDA** | 0–30 | Data loading, cleaning, class mapping, visualisation, train/val/test split |
-| **ML Baselines (Step 2)** | 31–42 | TF-IDF + Logistic Regression, Naive Bayes, Linear SVM |
-| **Bi-LSTM (Step 3A)** | 43–61 | Vocabulary, GloVe embeddings, model architecture, training |
-| **Transformer (Step 3B)** | 62–75 | Encoder-only Transformer, training, architecture comparison |
-| **Evaluation (Step 4)** | 76–92 | Test-set metrics, confusion matrices, ROC/AUC, per-class accuracy, attention heatmaps |
+| **ML Baselines** | 31–42 | TF-IDF + Logistic Regression, Naive Bayes, Linear SVM |
+| **Bi-LSTM ** | 43–61 | Vocabulary, GloVe embeddings, model architecture, training |
+| **Transformer ** | 62–75 | Encoder-only Transformer, training, architecture comparison |
+| **Evaluation** | 76–92 | Test-set metrics, confusion matrices, ROC/AUC, per-class accuracy, attention heatmaps |
 | **Runtime** | 93–94 | Total notebook execution time |
 
 ---
